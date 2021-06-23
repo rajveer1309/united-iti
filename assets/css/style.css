@@ -596,7 +596,7 @@ section {
 .counts .counters span {
   font-size: 48px;
   display: block;
-  color: ##10bbc7;
+  color: #10bbc7;
   font-weight: 700;
 }
 
@@ -614,7 +614,7 @@ section {
 --------------------------------------------------------------*/
 .why-us .content {
   padding: 30px;
-  background: ##10bbc7;
+  background: #10bbc7;
   border-radius: 4px;
   color: #fff;
 }
