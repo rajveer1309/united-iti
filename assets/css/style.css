@@ -620,8 +620,8 @@ section {
 }
 
 .why-us .content h3 {
-  font-weight: 700;
-  font-size: 34px;
+  font-weight: 750;
+  font-size: 30px;
   margin-bottom: 30px;
 }
 
@@ -1544,4 +1544,21 @@ section {
   background: #10bbc7;
   color: #fff;
   text-decoration: none;
+}
+
+.viewmore{
+  font-family: "Raleway", sans-serif;
+  background: #10bbc7;
+    border: 0;
+    padding: 10px 35px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 50px;
+  margin-left: 690px;
+  width: 160px;
+}
+
+.viewmore:hover{
+  background-color: #fff;
+  color: #10bbc7;
 }
