@@ -11,6 +11,8 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
+  padding: 0;
+  padding-top: 100px;
   
 }
 
@@ -130,7 +132,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo {
-  font-size: 60px;
+  font-size: 40px;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -1389,7 +1391,7 @@ section {
 #footer {
   color: #37423b;
   font-size: 14px;
-  background: #eef0ef;
+  background: #ffffff;
 }
 
 #footer .footer-top {
@@ -1576,7 +1578,7 @@ section {
   margin-top: 0;
   padding: 0;
   vertical-align: middle;
-  font-size: 0.9em;
+  font-size: 0.8em;
 }
 
 .announcement a { 
@@ -1587,3 +1589,11 @@ section {
   color: red;
 }
 
+
+.whitebox {
+  background-color: white;
+  color: black;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 8px 15px rgb(0 0 0 / 6%);
+}
