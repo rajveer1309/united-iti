@@ -1554,8 +1554,9 @@ section {
     color: #fff;
     transition: 0.4s;
     border-radius: 50px;
-  margin-left: 690px;
-  width: 160px;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
 }
 
 .viewmore:hover{
