@@ -390,8 +390,6 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: url("../test-images/nicolas-thomas-3GZi6OpSDcY-unsplash.jpg") top center;
-  background-size: cover;
   position: relative;
 }
 
@@ -1562,5 +1560,27 @@ section {
 .viewmore:hover{
   background-color: #fff;
   color: #10bbc7;
+}
+
+.announcement {
+  display: inline-block;
+  height: auto;
+  text-align: center;
+  width: 100%;
+  background: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-family: Arial, sans;
+  margin-top: 0;
+  padding: 0;
+  vertical-align: middle;
+  font-size: 0.9em;
+}
+
+.announcement a { 
+  color: rgb(25, 179, 206); 
+}
+
+.announcement a:hover {
+  color: red;
 }
 
