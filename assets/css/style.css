@@ -11,8 +11,8 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
-  padding: 0;
-  padding-top: 90px;
+  padding-top: 85px;
+  padding-bottom: 0;
   
 }
 
@@ -460,7 +460,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 768px) {
   #hero {
-    height: 100vh;
+    height: 195px;
   }
   #hero h1 {
     font-size: 28px;
@@ -1596,4 +1596,10 @@ section {
   padding: 30px;
   border-radius: 20px;
   box-shadow: 0 8px 15px rgb(0 0 0 / 6%);
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+  background-size: auto;
 }
